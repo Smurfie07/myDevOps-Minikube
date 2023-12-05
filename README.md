@@ -7,11 +7,13 @@ Intalled on local PC
 
 b.	Install Minikube by following the official installation instructions for your operating system.
 
-DONE.
+![Alt text](image-1.png)
 
 c.	Verify the installation by running basic Minikube commands and checking the version.
 
 ![Alt text](image.png)
+
+
 
 Deploying Applications:
 a.	Create a custom Docker image for the application, which displays the pod name. (Use any repo from GitHub having a Docker File)
