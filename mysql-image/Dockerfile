@@ -1,0 +1,5 @@
+FROM mysql
+
+ENV MYSQL_ROOT_PASSWORD rootpasswork
+
+EXPOSE 3306
