@@ -21,18 +21,15 @@ a.	Create a custom Docker image for the application, which displays the pod name
     ![Alt text](image-2.png)
 
 b.	Create three deployments using the custom Docker image.
-
     ![Alt text](image-3.png)
 
 c.	Verify the successful deployment of the pods.
-
     ![Alt text](image-5.png)
 
 ## Setting Up Services:
 a.	Create a NodePort service to expose one of the deployments.
 
 b.	Create a ClusterIP service to expose the second deployment.
-
     ![Alt text](image-4.png)
 
 c.	Create a LoadBalancer service to expose the third deployment.
